@@ -57,7 +57,7 @@ Evernote is a commercial option with a free tier, but Joplin, being open source,
 
 Another very useful application of MarkDown is for collaborative documentation. These are online options so they don't need installing. [HackMd](https://hackmd.io/) is an open source platform. You can host it on a server in the cloud yourself or you can use the service at [https://hackmd.io/](https://hackmd.io/)  which offers a free tier if you are happy to have all your documents being public. For Carpentries related documents you can use the Carpentries' instance of HackMd at [codimd.carpentries.org/](codimd.carpentries.org/)
 
-For the rest of this lesson we will be using [HackMd](https://hackmd.io/). So you won't need to install anything but you will need to create a [login](https://hackmd.io/login)
+For the rest of this lesson we will be using [GitHub](github.com). So you won't need to install anything but you will need to create a [GitHub account](https://hackmd.io/login) and a repository. 
 
 {% include links.md %}
 
