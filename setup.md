@@ -1,0 +1,30 @@
+---
+title: Setup
+---
+You will need an editor that can render MarkDown. Several applications now implement an editor that can render MarkDown because it is so simple to use. The list below is by far not exhaustive and is merely applications that are well know and used by the lesson authors. A quick Google search will provide a list of options that is probably as confusing as it is helpful.
+
+For this lesson you can use any of the options below but it might be easier, for the sake of following the instructor and for helpers to help you if you run into problems, to use the same as your instructor. Your instructor should let you know beforehand if there is a preferred choice.
+
+## MarkDown Editors:
+- [ghostwriter](https://wereturtle.github.io/ghostwriter/)
+
+## Applications that implement a MarkDown editor:
+
+### Version Control:
+- [GitHub](https://github.com): The convention is to use MarkDown for all README and other documents.
+
+### Note Taking:
+- [Joplin](https://joplinapp.org/)
+- [Evernote](https://evernote.com/)
+
+### Online Collaboration Editors:
+
+- [HackMD](https://hackmd.io)
+- [CodiMD](codimd.carpentries.org/)
+
+### Development Environment:
+
+- [Jupyter](codimd.carpentries.org/)
+
+
+{% include links.md %}
