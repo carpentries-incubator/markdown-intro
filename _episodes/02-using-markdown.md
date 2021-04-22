@@ -10,7 +10,7 @@ objectives:
 - "Use MarkDown tags to format text"
 keypoints:
 - Create a new document on GitHub
-- Use MarkDown tas to format text
+- Use MarkDown tags to format text
  {% include base_path.html %}
 
 ---
@@ -187,5 +187,5 @@ Horizontal rules can be created in one of three ways
 - [ ] a tick box is created by starting the line with a - followed by a space, an open square bracket, another space and then a close square bracket followed by another space, i.e. ```- [ ] ```
 - [x] To tick the box, replace the space between the two sqare brackets with an x, i.e. ```- [x] ```
 
-{% include links.md %}
+
 
