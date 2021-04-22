@@ -14,6 +14,8 @@ keypoints:
 
 ---
 
+{% include base_path.html %}
+
 # Creating a New Note
 
 Log into GitHub and select a repository or create a new one. A MarkDown file is created like any other file but it needs to have a .md extension. So click on the ```Add file```button and select ```Create new file```:
