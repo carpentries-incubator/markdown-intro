@@ -11,8 +11,10 @@ objectives:
 keypoints:
 - Create a new document on GitHub
 - Use MarkDown tas to format text
+ {% include base_path.html %}
 
 ---
+ {% include base_path.html %}
 
 # Creating a New Note
 
