@@ -111,7 +111,9 @@ Links are created by using square brackets around the text to be displayed, foll
 ~~~markdown
 [GitHub Website](https://github.com)
 ~~~
-This will be displayed as [Github Website](https://github.com).
+This will be displayed as:
+
+[Github Website](https://github.com).
 
 ### Images
 To add an image the MarkDown is similar to that of a link but a ```!``` is added to the front, eg. 
