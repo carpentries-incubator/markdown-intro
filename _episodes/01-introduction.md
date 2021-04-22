@@ -41,7 +41,7 @@ A MarkDown document is a plain text document. So you can use any plain text edit
 
 If you use websites such as [GitHub](github.com), [BitBucket](https://bitbucket.org/), [Medium](https://medium.com/), [Stack Overflow](https://stackoverflow.com/), Evernote, Slack, Discord and Zulip, then they all have MarkDown already built into their web pages. The image below shows how it is implemented in **GitHub**. Notice that there are two tabs, **<>Edit File** and &#128065;**Preview changes**. To see what your text will like, once rendered, you have to click on the preview tab.
 
-![GitHub](fig/GitHub.png)
+![GitHub]({{relative_root_path}}/fig/GitHub.png)
 
 **Stack Overflow** has a different approach. Your rendered text is displayed below the editor as you type:
 
