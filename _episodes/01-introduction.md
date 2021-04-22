@@ -12,7 +12,7 @@ keypoints:
 - Determine what you want to use MarkDown for
 - Find a suitable MarkDown editor
 - Determine whether the editor needs installing
- {% include base_path.html %}
+
 
 ---
  {% include base_path.html %}
