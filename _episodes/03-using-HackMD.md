@@ -13,6 +13,7 @@ keypoints:
 - Use MarkDown tas to format text
 
 ---
+ {% include base_path.html %}
 
 # Creating a New Note
 

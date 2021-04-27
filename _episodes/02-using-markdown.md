@@ -13,7 +13,6 @@ keypoints:
 - Use MarkDown tags to format text
 
 ---
- {% include base_path.html %}
 
 {% include base_path.html %}
 
