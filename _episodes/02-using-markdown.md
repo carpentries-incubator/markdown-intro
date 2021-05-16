@@ -16,7 +16,7 @@ keypoints:
 
 {% include base_path.html %}
 
-# Creating a New Note
+# Creating a New MarkDown file in GitHub
 
 Log into GitHub and select a repository or create a new one. A MarkDown file is created like any other file but it needs to have a .md extension. So click on the ```Add file```button and select ```Create new file```:
 
@@ -77,11 +77,65 @@ And, if we select the preview, it should look like this:
 
 
 ### Making lists:
+There are three types of lists that can be created with MarkDown. The first type of list is the ordered list where every item in the list is numbered. The second type of list is the unordered list where each item in the list is marked with a bullet. The third type of list is a todo list where each item in the lists starts with a tickbox.
 
 #### ordered lists
+Ordered lists can be created by starting a line with a number followed by a fullstop followed by a space, eg. ```1. ```. The value of the number doesn't matter and the numbers also do not need to be sequential. The value of the number is inconsequential except for the very first number which will indicate where the numbering should start. MarkDown will make the numbers sequential. So whether you enter
+
+```markdown
+1. one
+1. two
+1. three
+1. four
+```
+or
+```markdown
+1. item one
+2. item two
+3. item three
+4. item four
+```
+or
+```markdown
+1. item one
+10. item two
+1. item three
+1000. item four
+```
+They will all display as:
+
 1. item one
 1. item two
-1. item three
+1000. item three
+10. item four
+
+If however, the number you start with will determine the number of the first element in the list with following items incrementing from the first value. The following examples will all result in the same list:
+
+```markdown
+23. twenty-three
+1. twenty-four
+1. twenty-five
+1. twenty-six
+```
+```markdown
+23. twenty-three
+1. twenty-four
+1000. twenty-five
+1. twenty-six
+```
+```markdown
+23. twenty-three
+24. twenty-four
+25. twenty-five
+26. twenty-six
+```
+results in:
+
+23. twenty-three
+1. twenty-four
+1000. twenty-five
+1. twenty-six
+
 
 #### unordered lists
 ##### using -
