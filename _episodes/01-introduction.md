@@ -19,7 +19,7 @@ keypoints:
 
 ## What is MarkDown
 
-Before explaining what MarkDown is we should just mention what "markup" is. In the days before computers had graphic user interfaces (GUIs), authors of documents had to find a way to indicate how they wanted their text formatted. When this was done on paper the text would be marked up with a red or blue pen. When computers came into play, markup was done by **tags** embedded in plain texts files. The tags had to be distinguishable from the manuscript text and would be interpreted by a separate program that would create an appropriately formatted document - mostly for printing. Markup was never completely replaced as it is still being used for web pages and online documentation but GUI environments became more popular and word processors took over which were WYSIWYG (What You See Is What You Get). WYSIWIG was much simpler and more intuitive for non-technical people to use. However, things have changed. We are moving away from using so much paper. Most of our documentation is now meant for online reading. There was a need for some kind of markup that would be simpler than the markup used for web pages or for technical documentation such as in LaTeX. In 2004 Aaron Swartz and Joh Gruber worked together to create **MarkDown" with the aim of enabling people "write using easy-to-read and easy-to-write plain text format". 
+Before explaining what MarkDown is we should just mention what "markup" is. In the days before computers had graphic user interfaces (GUIs), authors of documents had to find a way to indicate how they wanted their text formatted. When this was done on paper the text would be marked up with a red or blue pen. When computers came into play, markup was done by **tags** embedded in plain texts files. The tags had to be distinguishable from the manuscript text and would be interpreted by a separate program that would create an appropriately formatted document - mostly for printing. Markup was never completely replaced as it is still being used for web pages and online documentation but GUI environments became more popular and word processors took over which were WYSIWYG (What You See Is What You Get). WYSIWIG was much simpler and more intuitive for non-technical people to use. However, things have changed. We are moving away from using so much paper. Most of our documentation is now meant for online reading. There was a need for some kind of markup that would be simpler than the markup used for web pages or for technical documentation such as in LaTeX. In 2004 Aaron Swartz and Joh Gruber worked together to create **MarkDown** with the aim of enabling people "write using easy-to-read and easy-to-write plain text format". 
 
 ## Where can I use MarkDown
 
@@ -30,6 +30,7 @@ To allow people to format their text well for readability, Markdown is now used 
 - Question and Answer websites such as Stack Overflow
 - Note taking applications such as Evernote and Joplin
 - Team communication and collaboration applications such as Slack, Discord and Zulip
+- Jupyter Notebooks
 
 > ## Where would you use MarkDown?
 > 
@@ -60,6 +61,11 @@ Evernote is a commercial option with a free tier, but Joplin, being open source,
 Another very useful application of MarkDown is for collaborative documentation. These are online options so they don't need installing. [HackMd](https://hackmd.io/) is an open source platform. You can host it on a server in the cloud yourself or you can use the service at [https://hackmd.io/](https://hackmd.io/)  which offers a free tier if you are happy to have all your documents being public. For Carpentries related documents you can use the Carpentries' instance of HackMd at [codimd.carpentries.org/](codimd.carpentries.org/)
 
 For the rest of this lesson we will be using [GitHub](github.com). So you won't need to install anything but you will need to create a [GitHub account](https://hackmd.io/login) and a repository. 
+For the rest of this lesson you have to select episode two, three or four. Your instructor will tell you which one will be used. The three episode contain the same learning material but use three different editors.
+
+2. [Using GitHub](03-using-github/index.html)
+3. Using HackMD
+4. Using Jupyter 
 
 {% include links.md %}
 

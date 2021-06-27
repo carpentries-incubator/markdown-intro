@@ -1,5 +1,5 @@
 ---
-title: "Creating a MarkDown Document
+title: "Creating a MarkDown Document"
 teaching: 0
 exercises: 0
 questions:
