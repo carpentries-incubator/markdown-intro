@@ -1,17 +1,17 @@
 ---
-title: "Adding text to a MarkDown document"
+title: "Creating Lists"
 teaching: 0
 exercises: 0
 questions:
-- "How do I add text to a MarkDown document?"
-- "How can I make different levels of headings?"
-- "How do I make text bold?"
-- "How do I format text as italic?"
-- "How do I format text as bold and italic"
+- "How can I create bullet (unordered) lists?"
+- "How can I create numbered lists?"
+- "How can I create todo lists?"
 objectives:
-- "Adding text to a MarkDown document."
+- "Creating lists."
 keypoints:
-- Adding text to a MarkDown document.
+- You can use ```-```, ```+``` or ```*``` at the very beginning of the line to create an unordered list.
+- You can use a digit followed by a fullstop, eg. ```1.``` to create a numbered list
+- You can create a list with tickboxes by using ```- [ ]```
 
 ---
 
@@ -79,6 +79,7 @@ results in:
 
 
 #### unordered lists
+Some editors will allow the use of ```-```, ```+``` and ```*``` to create unordered lists. However, some editors only allow ```-```. You need to try it out and see what works for your chosen editor.
 ##### using -
 - item one
 - item two
@@ -94,7 +95,16 @@ results in:
 * item two
 * item three
 
+#### To-do lists
+In editors such as HackMD, Joplin and GitHub, you can create todo lists with tick boxes. To create such a list you start the line with ```- [ ]```. Note that there is a space between the square brackets. To create a ticked box you place an ```x``` between the square brackets: ```- [x]```. You'll notice that you cannot tick the boxes on this web page. However, in the previous mentioned editors you can usually tick the boxes in either display or editing mode.
+
+- [ ] todo one
+- [ ] todo two
+- [x] todo three
+
 ## Sub lists:
+To create sub-lists you need to indent the sublist items with two spaces. Some editors might require more spaces. So if things do not display as you expect, try adding an extra space or two:
+
 1. first item
 	1. sub item
 	1. second sub item
@@ -102,15 +112,6 @@ results in:
 	- first sub item
 	- second sub item
 
-### Links
-Links are created by using square brackets around the text to be displayed, followed by round brackets for the link to be used. For example, to create a link to the GitHub website we can do this:
-
-~~~markdown
-[GitHub Website](https://github.com)
-~~~
-This will be displayed as:
-
-[Github Website](https://github.com).
 
 {% include links.md %}
 
