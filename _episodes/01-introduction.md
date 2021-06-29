@@ -63,9 +63,9 @@ Another very useful application of MarkDown is for collaborative documentation. 
 For the rest of this lesson we will be using [GitHub](github.com). So you won't need to install anything but you will need to create a [GitHub account](https://hackmd.io/login) and a repository. 
 For the rest of this lesson you have to select episode two, three or four. Your instructor will tell you which one will be used. The three episode contain the same learning material but use three different editors.
 
-2. [Using GitHub](03-using-github/index.html)
-3. Using HackMD
-4. Using Jupyter 
+2. [Using GitHub](/02-using-github/index.html)
+3. [Using Jupyter](/03-using-jupyter/index.html)
+4. [Using HackMD](/03-using-hackmd/index.html)
 
 {% include links.md %}
 
