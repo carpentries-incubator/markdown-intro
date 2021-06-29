@@ -12,9 +12,9 @@ objectives:
 - "Adding text to a MarkDown document."
 - "Formatting text as headings, bold and italic."
 keypoints:
-- Adding text to a MarkDown document.
-- # is used for headings.
-- * is used for italic and bold text.
+- "Adding text to a MarkDown document."
+- "```#``` is used for headings."
+- "```*``` is used for italic and bold text."
 
 ---
 
@@ -68,3 +68,6 @@ And, if we select the preview, it should look like this:
 ![Text entered in preview]({{relative_root_path}}/fig/Part2.png)
 
 - Use MarkDown tas to format text
+
+{% include links.md %}
+
