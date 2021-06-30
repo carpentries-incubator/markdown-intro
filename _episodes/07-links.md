@@ -1,17 +1,15 @@
 ---
-title: "Adding Links"
+title: "Adding Links and Images"
 teaching: 0
 exercises: 0
 questions:
-- "How do I add text to a MarkDown document?"
-- "How can I make different levels of headings?"
-- "How do I make text bold?"
-- "How do I format text as italic?"
-- "How do I format text as bold and italic"
+- "How does one add a link?"
+- "How does one add an image?"
+- "How does one add an image that is also a link?"
 objectives:
-- "Adding text to a MarkDown document."
+- "Adding links and images."
 keypoints:
-- Adding text to a MarkDown document.
+- Use ```[]``` and ```()``` to add images and links
 
 ---
 
@@ -45,57 +43,5 @@ As you can, the above link references and images that is in another repository. 
 
 Image Credit: By Jerome Walker - Own work, created from GDFL work created by Michael Ströck, Public Domain, https://commons.wikimedia.org/w/index.php?curid=934419
 
-### Code and Syntax Highlighting
+{% include links.md %}
 
-You have probably seen how code is displayed in the Carpentries lessons in a grey block and with syntax highlighting. Since most of what we do is about coding, this is a very handy feature. Whenever you surround text with three back quotes (`) the text will be displayed monospace and in a gray box:
-
-~~~
-```
-s = "This is a Python string"
-print(s)
-```
-~~~
-
-To get syntax highlighting, just add the name of the programming language directly after the first three back quotes:
-
-~~~
-```python
-s = "This is a Python string"
-print(s)
-```
-~~~
-{: .source}
-
-This will be displayed as:
-
-~~~python
-s = "This is a Python string"
-print(s)
-~~~
-{: .output}
-
-### Tables
-### Blockquotes
-
-Blockquotes are created by adding ```>``` in front of every line of the block, followed by a space eg.
-
-> This is a block quote
-> 
-> Every line starts with a > symbol followed by a space
-> 
->> This line started with two > symbols followed by a space, thus: >> .This mimmicks the type of formatting you get in emails that have been forwarded.
->> 
-
-### Horizontal Rule
-Horizontal rules can be created in one of three ways
-
-1. ```---```
-1. ```***```
-1. ```___```
-
-### Task list
-- [ ] a tick box is created by starting the line with a - followed by a space, an open square bracket, another space and then a close square bracket followed by another space, i.e. ```- [ ] ```
-- [x] To tick the box, replace the space between the two sqare brackets with an x, i.e. ```- [x] ```
-
-
-- Use MarkDown tas to format text
