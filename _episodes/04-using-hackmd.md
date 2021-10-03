@@ -16,7 +16,7 @@ keypoints:
 
 Log into HackMD
 
-Create a new note by clicking on the green <style="background-color:green;"> ```+``` </style> :
+Create a new note by clicking on the green ```+```  :
 
 ![HackMD]({{relative_root_path}}/fig/HackMD.png)
 
