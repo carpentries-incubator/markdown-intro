@@ -26,7 +26,7 @@ Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%
 
 Current maintainers of this lesson are 
 
-* [Jannetta Steyn][jsteyn]
+* [Jannetta Steyn][jannetta-steyn]
 
 ## Authors
 
@@ -37,3 +37,6 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 To cite this lesson, please consult with [CITATION](CITATION)
 
 [lesson-example]: https://carpentries.github.io/lesson-example
+
+
+[jannetta-steyn]: https://github.com/jsteyn
