@@ -4,13 +4,19 @@ title: Setup
 
 # Overview
 
+
 There are many possible Markdown editors, this lesson will use an online and freely available tool
 called HedgeDoc. Your instructors may suggest you use another tool that is more integrated into how
 you will be using HedgeDoc, however throughout this lesson you may see screenshots of HedgeDoc with
 Markdown text on the left and rendered HTML on the right. These basics apply in almost any Markdown
 environment. 
 
+## MarkDown Editors:
+
+- [ghostwriter](https://wereturtle.github.io/ghostwriter/)
+
 # HedgeDoc 
+
 
 For this lesson we will use an online and open source tool called [HedgeDoc](https://hedgedoc.org/)
 to learn Markdown. There is no software to install on your local computer, but you will need an
@@ -25,6 +31,15 @@ screen.
 > or accounts created.
 {: .callout}
 
+### Version Control:
+
+- [GitHub](https://github.com): The convention is to use MarkDown for all README and other documents.
+
+### Note Taking:
+
+- [Joplin](https://joplinapp.org/)
+- [Evernote](https://evernote.com/)
+
 > ## Make your first HedgeDoc Page
 > You can create a demo HedgeDoc document on the HedgeDoc project's server by clicking this link:
 > 
@@ -38,10 +53,15 @@ screen.
 > syntax, and you should not store any personal or private information in this document. 
 {: .challenge}
 
+
 > ## Find your document again
 > Note: Should you loose track of the page you were typing in, you can find it again by clicking
 > History at the top of the [main HedgeDoc demo server page](https://demo.hedgedoc.org/). 
 {: .challenge }
+
+- [HackMD](https://hackmd.io) - Public and freemium service for sharing collaborative Markdown documents. 
+- [Carpentries CodiMD](codimd.carpentries.org/) - Running an open source fork of HackMD called [HedgeDoc](https://hedgedoc.org/) (formerly called CodiMD). 
+
 
 
 # HedgeDoc User Interface
