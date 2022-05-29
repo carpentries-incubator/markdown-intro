@@ -45,14 +45,14 @@ screen.
 # HedgeDoc User Interface
 ## HedgeDoc main screen:
 
-![](fig/hedgedoc_interface.png)
+![HedgeDoc Interface](fig/hedgedoc_interface.png)
 
 The main HedgeDoc Screen contains an editing panel (on the left) and a preview panel (on the right)
 you can enter Markdown syntax on the left and see it rendered on the right.
 
 ## HedgeDoc views: 
 
-![](fig/hedgedoc_views.png)
+![HedgeDoc views](fig/hedgedoc_views.png)
 
 If you'd prefer a bigger preview area, you can click the leftmost eye icon, if you'd like a
 split-view (as in the screenshot above) you can click the middle two-panel icon, if you'd like a
@@ -61,7 +61,7 @@ split screen view, which is good while you're learning Markdown.
 
 ## HedgeDoc Menu:
 
-![](fig/hedgedoc_menu.png)
+![HedgeDoc Menu](fig/hedgedoc_menu.png)
 
 The menu across the top can be a useful crutch when you can't remember specific Markdown syntax.
 Clicking on one of the icons will make an example of that kind of Markdown element appear in the
