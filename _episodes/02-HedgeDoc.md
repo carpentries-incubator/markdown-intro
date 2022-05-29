@@ -45,7 +45,7 @@ screen.
 # HedgeDoc User Interface
 ## HedgeDoc main screen:
 
-![HedgeDoc Interface]({{site-baseurl}}/fig/hedgedoc_interface.png)
+![HedgeDoc Interface]({{site.baseurl}}/fig/hedgedoc_interface.png)
 
 The main HedgeDoc Screen contains an editing panel (on the left) and a preview panel (on the right)
 you can enter Markdown syntax on the left and see it rendered on the right.
