@@ -38,7 +38,7 @@ screen.
 
 
 > ## Find your document again
-> Note: Should you loose track of the page you were typing in, you can find it again by clicking
+> Note: Should you lose track of the page you were typing in, you can find it again by clicking
 > History at the top of the [main HedgeDoc demo server page](https://demo.hedgedoc.org/). 
 {: .challenge }
 
